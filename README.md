@@ -5,7 +5,7 @@ This repository contains a project also published at [my website](https://www.ro
 
 
 <p align="center">
- <img width="25%" height="25%" src="https://www.pngkit.com/png/detail/135-1356276_fallout-png-transparent-vault-boy-transparent.png">
+ <img width="25%" height="25%" src="https://raw.githubusercontent.com/robguilarr/control_mechanics_fallout/master/images/vault_boy.png">
 </p>
 
 
